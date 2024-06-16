@@ -1,2 +1,2 @@
 # Weather
-Weather Website using HTML, CSS, J s
+Weather Website using HTML, CSS, Js
